@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="wzhuai@gpu1.math.ust.hk:22">
+    <serverData>
+      <paths name="hguaf@chgpu1:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/RobustGAN" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wzhuai@gpu1.math.ust.hk:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Robust-GAN-Scatter" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
